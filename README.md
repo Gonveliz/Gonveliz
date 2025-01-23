@@ -1,6 +1,8 @@
-# GONZALO VELIZ - DevOps Engineer
+# Hello 👋
 
 **DevOps Engineer | AWS | GitHub Actions | Linux | Docker | Kubernetes | Terraform | CI/CD | GIT**
+
+My name is Gonzalo, I'm from Argentina and I'm a SRE - DevOps
 
 ## 📞 Contact Information
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonveliz)
