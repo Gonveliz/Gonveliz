@@ -3,7 +3,7 @@
 **DevOps Engineer | AWS | GitHub Actions | Linux | Docker | Kubernetes | Terraform | CI/CD | GIT**
 
 ## 📞 Contact Information
-- 💼 [LinkedIn](www.linkedin.com/in/gonveliz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonveliz)
   
 ## 💻 Professional Skills
 - **Cloud Infrastructure:** AWS, Azure
