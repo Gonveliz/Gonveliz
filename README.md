@@ -4,7 +4,7 @@
 
 My name is Gonzalo, I'm from Argentina and I'm a SRE - DevOps
 
-## 📞 Contact Information
+## 📞 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonveliz)
   
 ## 💻 Professional Skills
