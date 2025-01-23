@@ -8,7 +8,7 @@ My name is Gonzalo, I'm from Argentina and I'm a SRE - DevOps
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonveliz)
   
 ## 💻 Professional Skills
-- **Cloud Infrastructure:** AWS, Azure
+- **Cloud Infrastructure:** Mainly AWS
 - **DevOps Practices:** Automation, Incident Response, SRE Principles
 - **CI/CD:** GitHubActions, Jenkins, Harness, CodePipeline
 - **IaC:** Terraform, CloudFormation, CDK
